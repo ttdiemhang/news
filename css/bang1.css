@@ -1,0 +1,56 @@
+/* CSS Document */
+#customers{
+	border-collapse:collapse;
+}
+#customers tr{
+	border:1px solid #3F6;
+}
+#customers td{
+	padding-left:10px;
+}
+#customers tr.doimaunen{
+	background-color:#F60;
+	color:#FFF;
+}
+#bangchinh input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+#bangchinh input[type=password], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+#bangchinh input[type=submit] {
+  width: 100%;
+  background-color:#F93;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+#bangchinh input[type=submit]:hover {
+  background-color:#F60;
+}
+#bangchinh{
+border-collapse:collapse;
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+#bangchinh tr td{
+	font-size:17px;
+	font-family:"Times New Roman", Times, serif;
+	
+}
